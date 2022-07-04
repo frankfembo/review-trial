@@ -1,13 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Review of Embedding Files
 
-> Description the project.
+> In this project, I.
 
+- **Setup github actions**
+- **Setup linters locally**
+- **Created an trial.html file**
+- **Added boilerplate HTML code to index.html as projects template**
+- **Created style.css file**
+- **Added basic styling to style.css**
+- **Created .gitignore file and add node_modules as content**
 
 ## Built With
 
-- Major languages
+- HTML & CSS
 - Frameworks
 - Technologies used
 
